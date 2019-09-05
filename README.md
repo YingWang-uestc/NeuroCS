@@ -1,5 +1,5 @@
 # NeuroCS
-##A tool to predict Neuropeptide precursors cleavage sites
+A tool to predict Neuropeptide precursors cleavage sites
 
 NeuroCS is an enhanced amino acid composition-based tool for the prediction of neuropeptide precursors’ cleavage site. 
 
